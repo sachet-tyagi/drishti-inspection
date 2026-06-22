@@ -1,4 +1,4 @@
-# DRISHTI Inspection
+# DRISHTI INSPECTION 
 
 ## About
 DRISHTI Inspection is a professional inspection, verification, auditing, and reporting platform inspired by global inspection companies.
