@@ -1,45 +1,55 @@
 About DRISHTI Inspection
 
-DRISHTI Inspection is an independent inspection, verification, auditing, and quality assurance organization committed to helping businesses improve safety, reliability, compliance, and operational excellence.
+DRISHTI Inspection is an independent inspection, testing, verification, auditing, and quality assurance organization committed to helping businesses achieve the highest standards of safety, quality, compliance, and performance.
 
-We provide professional inspection and technical assessment services across industrial, construction, electrical, infrastructure, manufacturing, and energy sectors. Our team works with clients to identify risks, verify quality standards, and ensure compliance with applicable regulations and industry requirements.
+We provide comprehensive inspection and technical assessment services across industrial, construction, infrastructure, manufacturing, energy, electrical, renewable energy, and supply chain sectors. Through a combination of technical expertise, digital technologies, and internationally recognized best practices, we support clients in managing risk, improving operational efficiency, and ensuring regulatory compliance.
 
-By combining technical expertise, digital reporting, and a client-focused approach, DRISHTI Inspection delivers accurate, transparent, and timely inspection solutions that support informed decision-making and continuous improvement.
+Our services cover the entire asset lifecycle, from design verification and vendor inspections to construction supervision, commissioning support, operational integrity assessments, and compliance audits.
 
-Our Mission
+At DRISHTI Inspection, we believe that trust is built through independence, technical excellence, transparency, and consistent delivery. Our mission is to provide reliable inspection and assurance services that help organizations make informed decisions and achieve sustainable growth.
 
-To provide trusted inspection, verification, and quality assurance services that help organizations achieve safety, compliance, and operational excellence.
+Mission
 
-Our Vision
+To deliver world-class inspection, verification, auditing, and quality assurance services that enhance safety, quality, and operational excellence.
 
-To become a leading global inspection and certification organization recognized for integrity, technical excellence, and innovation.
+Vision
 
-Our Core Values
+To become a globally recognized inspection and certification organization trusted for technical excellence, integrity, innovation, and customer value.
 
-Integrity
+Core Values
 
-Independence
+- Integrity
+- Independence
+- Technical Excellence
+- Safety
+- Innovation
+- Customer Focus
+- Sustainability
 
-Professionalism
+Services
 
-Safety
-
-Quality
-
-Customer Focus
+- Third-Party Inspection
+- Industrial Inspection
+- Construction Quality Assurance
+- Electrical Inspection
+- Renewable Energy Inspection
+- Vendor Inspection
+- Asset Integrity Management
+- Safety Audits
+- Compliance Verification
+- Technical Due Diligence
+- Quality Control Services
+- Certification Support
 
 Industries We Serve
 
-Industrial & Manufacturing
-
-Construction & Infrastructure
-
-Electrical & Power Systems
-
-Renewable Energy
-
-Oil & Gas
-
-Transportation & Logistics
-
-Quality Assurance & Compliance
+- Manufacturing
+- Construction & Infrastructure
+- Power & Utilities
+- Renewable Energy
+- Oil & Gas
+- Transportation
+- Logistics
+- Mining & Metals
+- Industrial Facilities
+- Government & Public Sector
