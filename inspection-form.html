@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Create Inspection</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<nav>
+    <a href="index.html">Home</a>
+    <a href="dashboard.html">Dashboard</a>
+</nav>
+
+<section>
+    <h1>Create Inspection</h1>
+
+    <form action="report.html">
+
+        <label>Client Name</label><br>
+        <input type="text" required><br><br>
+
+        <label>Project/Site Name</label><br>
+        <input type="text" required><br><br>
+
+        <label>Location</label><br>
+        <input type="text" required><br><br>
+
+        <label>Inspection Date</label><br>
+        <input type="date" required><br><br>
+
+        <label>Inspection Type</label><br>
+        <select>
+            <option>Industrial Inspection</option>
+            <option>Construction Inspection</option>
+            <option>Electrical Inspection</option>
+            <option>Safety Audit</option>
+        </select><br><br>
+
+        <label>Observations</label><br>
+        <textarea rows="5"></textarea><br><br>
+
+        <label>Recommendations</label><br>
+        <textarea rows="5"></textarea><br><br>
+
+        <label>Photo Upload</label><br>
+        <input type="file"><br><br>
+
+        <button type="submit">Generate Report</button>
+
+    </form>
+
+</section>
+
+</body>
+</html>
